@@ -33,7 +33,7 @@ class header extends Component {
                   id="navbarOne"
                 >
                   <ul className="navbar-nav m-auto">
-                    <li className="nav-item active">
+                    <li className="nav-item">
                       <a className="page-scroll" href="#home">
                         HOME
                       </a>
@@ -65,22 +65,22 @@ class header extends Component {
                   <span>FOLLOW US</span>
                   <ul>
                     <li>
-                      <a href="#">
+                      <a href="https://www.facebook.com/">
                         <i class="lni-facebook-filled"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://twitter.com/">
                         <i class="lni-twitter-original"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://www.instagram.com/">
                         <i class="lni-instagram-original"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://www.linkedin.com/feed/">
                         <i class="lni-linkedin-original"></i>
                       </a>
                     </li>
